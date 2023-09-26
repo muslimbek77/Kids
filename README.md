@@ -1,3 +1,6 @@
+http://muslimbekuz.pythonanywhere.com/
+![image](https://github.com/muslimbek77/Kids/assets/48023644/02715371-89e7-4e93-86b7-1b10c09a6ea0)
+
 # Kichkintoy-MTT-web-site
 "Kichkintoy" nomli 40- umumiy Maktabgacha ta'lim tashkiloti (bog'cha) ning web sayti
 
